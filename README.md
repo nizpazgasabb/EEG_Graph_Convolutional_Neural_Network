@@ -1,0 +1,2 @@
+# EEG_Graph_Convolutional_Neural_Network
+EEG Classification with Graph Convolutional Neural Network
